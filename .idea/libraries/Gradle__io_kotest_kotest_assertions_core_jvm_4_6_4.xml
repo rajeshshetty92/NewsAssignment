@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.kotest:kotest-assertions-core-jvm:4.6.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-core-jvm/4.6.4/97760f235ee9398b0164bf885ff448a3eab6c95b/kotest-assertions-core-jvm-4.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-core-jvm/4.6.4/95f4662cf4b9a13c8e9c11c86466b87ed201a9d/kotest-assertions-core-jvm-4.6.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-core-jvm/4.6.4/5ee0b440edc31392f057566e01ffb6c72af0110d/kotest-assertions-core-jvm-4.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
